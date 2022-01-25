@@ -8,3 +8,5 @@ This section contains my new edits from the new branch
 
 Here is some new text I am adding from the shell to update the README file.
 "Here is some new text-bis I am adding from the shell to update the README file." 
+
+New text added from GitHub to README.md
